@@ -10,4 +10,4 @@ Tetris Designed in Sketch:
 
 Final Product:
 
-![Final Product](https://raw.githubusercontent.com/mkdorff/c-tetris/master/final.JPG "Final Product")
+![Final Product](https://github.com/mkdorff/c-tetris/blob/master/final.png?raw=true "Final Product")
